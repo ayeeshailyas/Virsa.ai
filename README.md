@@ -43,3 +43,35 @@ Follow these instructions to get a copy of the project up and running on your lo
    ```sh
    git clone https://github.com/your-username/virsa-ai.git
    cd virsa-ai
+   ```
+
+2. **Install dependencies**
+   ```sh
+   npm install
+   ```
+
+3. **Set up Environment Variables**
+   Create a `.env.local` or `.env` file in the root directory and add your Gemini API Key:
+   ```env
+   GEMINI_API_KEY=your_gemini_api_key_here
+   ```
+
+4. **Run the development server**
+   ```sh
+   npm run dev
+   ```
+
+5. **Open** `http://localhost:3000` in your web browser.
+
+## 🤝 Contributing
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📄 License
+Distributed under the MIT License. See `LICENSE` for more information.
+
