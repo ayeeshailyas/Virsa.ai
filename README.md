@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>✨ Virsa.ai</h1>
+  <h1> Virsa.ai</h1>
   <p><b>Transforming Photos into Cultural Masterpieces with Art & AI</b></p>
 </div>
 
