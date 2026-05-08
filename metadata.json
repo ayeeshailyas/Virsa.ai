@@ -1,0 +1,11 @@
+{
+  "name": "VirsaAI",
+  "description": "A high-energy, Maximalist AI art app celebrating Pakistani culture. Transform your photos into vibrant truck art, Mughal architecture, or contemporary digital art.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "image-processing",
+    "ai-art-generation"
+  ]
+}
