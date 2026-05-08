@@ -7,7 +7,7 @@
 
 **Virsa.ai** is an interactive web application designed to celebrate and preserve Pakistani cultural heritage through the lens of artificial intelligence. By leveraging Google's Gemini multimodal AI models, the app allows users to upload any photo and magically remix it into traditional aesthetic styles. It also acts as an AI-powered Cultural Historian, analyzing images to provide deep, factual narratives about traditional crafts and architecture.
 
-### ✨ Key Features
+###  Key Features
 
 - **🎨 Cultural Image Remixing:** Uses `gemini-2.5-flash-image` to style-transfer user photos into four iconic aesthetics:
   - 🛺 **Heritage Truck Art**: Vibrant neon colors, heavy outlines, and maximalist floral motifs.
